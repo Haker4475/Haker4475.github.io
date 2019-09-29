@@ -1,0 +1,58 @@
+body {
+	background-color: FFC5A1;
+	margin: 20px;
+}
+p {
+	color: hotpink;
+	font-size: 30px;
+	font-family: 'Amatic SC';
+}
+h1 {
+	color: dodgerblue;
+	font-family: 'Lobster',cursive;
+	font-size: 50px;
+}
+h2 {
+	color: dodgerblue;
+	font-family: 'Lobster',cursive;
+	font-size: 50px;
+}
+div {
+	width: 60%;
+	margin: auto; 
+	background-color: LightGrey;
+	padding: 50px;
+}
+a {
+	text-decoration: none;
+	font-size: 20px;
+	font-family: 'Arial'
+	color: red;
+}
+#header {
+	position: relative;
+	background-color: red;
+	height: 20px;
+}
+#rightArrow {
+	position: absolute;
+	right: 10px;
+	top: 50px;
+}
+#leftArrow {
+	position: absolute;
+	left: 10px;
+	top: 50px;
+}
+#test {
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 20px;
+	color: magenta;
+	border: 2px solid transparent;
+	transition: 0.2s ease-in;
+}
+#test:hover {
+	border-color: red; 
+}
+/*colorhunt.ru
