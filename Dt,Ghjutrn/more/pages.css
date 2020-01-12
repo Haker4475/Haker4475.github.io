@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing;
+}
+
+html {
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+.img {
+	width: 100%;
+}
+
+.icon {
+	display: block;
+	width: 80px;
+}
+
+.header {
+	display: flex;
+	position: relative;
+	width: 60%;
+	margin: auto;
+}
+
+.h1 {
+	font-size: 3rem; 
+	position: absolute;
+	left: 90px;
+	bottom: -8px;
+}
+
+.main {
+	width: 60%;
+	margin: auto;
+}
+
+.txt {
+	font-size: 20px;
+}
